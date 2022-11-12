@@ -1,4 +1,4 @@
-const clienteModelo =require ("../modelos/clienteModelo");
+const clienteModelo =require ("../modelos/ClienteModelo");
 const clienteOperaciones ={}
 
 clienteOperaciones.crearCliente = async (req,res)=>{
